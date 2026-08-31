@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/go/produto", "destination": "https://www.digistore24.com/redir/COLE_AQUI_SEU_LINK", "permanent": false },
+    { "source": "/go/upsell1", "destination": "https://www.digistore24.com/redir/COLE_AQUI_SEU_LINK", "permanent": false },
+    { "source": "/go/upsell2", "destination": "https://www.digistore24.com/redir/COLE_AQUI_SEU_LINK", "permanent": false }
+  ]
+}
